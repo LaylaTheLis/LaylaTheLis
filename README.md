@@ -1,16 +1,35 @@
-## Hi there 👋
+<h1 align="center">Hello! My name is Layla 💓</h1><br>
+<h3 align="center">A passionate teenager and asparing game dev from Poland</h3>
+<br><br>
 
-<!--
-**LaylaTheLis/LaylaTheLis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+#### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=LaylaTheLis&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<br><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+### - 🤖 I’m currently working on: **a todo reminder app in C**<br><br>
+### - 📖 I’m currently learning: **C, Cmake and C++**<br><br>
+### - 📫 How to reach me: **laylagruszka123@gmail.com**<br><br>
+### - 💡 Fun fact: **I am a furry :3**
+<br><br>
+
+# 💻 Tech Stack (Languages):
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+# 💻 Tech Stack (Libraries):
+  - Raylib
+  - Raygui
+
+# 📊 GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=LaylaTheLis&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=LaylaTheLis&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=LaylaTheLis&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
+---
+[![](https://visitcount.itsvg.in/api?id=LaylaTheLis&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
