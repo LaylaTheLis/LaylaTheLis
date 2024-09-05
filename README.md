@@ -2,17 +2,14 @@
 <h3 align="center">A passionate teenager and aspiring game dev from Poland</h3>
 <br><br>
 
-
-#### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=LaylaTheLis&limit=5&theme=dark&combine_all_yearly_contributions=true)
-<br><br>
-
-
-
 ### - 🤖 I’m currently working on: **A terminal game called Terramin**<br><br>
 ### - 📖 I’m currently learning: **C and Cmake**<br><br>
 ### - 📫 How to reach me: **laylagruszka123@gmail.com**<br><br>
 ### - 💡 Fun fact: **My first ever Python project was a crappy dating sim with the character Temmie.**
+<br><br>
+
+#### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=LaylaTheLis&limit=5&theme=dark&combine_all_yearly_contributions=true)
 <br><br>
 
 # 💻 Tech Stack (Languages):
