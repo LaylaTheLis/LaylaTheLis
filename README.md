@@ -5,8 +5,8 @@
 ### - 🤖 I’m currently working on: **A terminal game called Terramin**<br><br>
 ### - 📖 I’m currently learning: **C and Cmake**<br><br>
 ### - 📫 How to reach me: **laylagruszka123@gmail.com**<br><br>
-### - 💡 Fun fact: **My first ever Python project was a crappy dating sim with the character Temmie.**
-<br><br>
+### - 💡 Semi-Daily fun fact: **My first ever Python project was a crappy dating sim with the character Temmie.**
+<br>
 
 #### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=LaylaTheLis&limit=5&theme=dark&combine_all_yearly_contributions=true)
@@ -21,10 +21,9 @@
   - Raygui
 
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=LaylaTheLis&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=LaylaTheLis&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br>
 ![](https://github-readme-stats.vercel.app/api?username=LaylaTheLis&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=LaylaTheLis&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+![](https://github-readme-streak-stats.herokuapp.com/?user=LaylaTheLis&theme=dark&hide_border=false)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=LaylaTheLis&icon=0&color=0)](https://visitcount.itsvg.in)
