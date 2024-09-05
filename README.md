@@ -1,5 +1,5 @@
-<h1 align="center">Hello! My name is Layla 💓</h1><br>
-<h3 align="center">A passionate teenager and asparing game dev from Poland</h3>
+<h1 align="center">Hello! My name is Layla 🏳️‍⚧️</h1><br>
+<h3 align="center">A passionate teenager and aspiring game dev from Poland</h3>
 <br><br>
 
 
@@ -9,10 +9,10 @@
 
 
 
-### - 🤖 I’m currently working on: **a todo reminder app in C**<br><br>
-### - 📖 I’m currently learning: **C, Cmake and C++**<br><br>
+### - 🤖 I’m currently working on: **A terminal game called Terramin**<br><br>
+### - 📖 I’m currently learning: **C and Cmake**<br><br>
 ### - 📫 How to reach me: **laylagruszka123@gmail.com**<br><br>
-### - 💡 Fun fact: **I am a furry :3**
+### - 💡 Fun fact: **My first ever Python project was a crappy dating sim with the character Temmie.**
 <br><br>
 
 # 💻 Tech Stack (Languages):
