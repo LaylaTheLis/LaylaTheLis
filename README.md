@@ -5,7 +5,7 @@
 ### - 🤖 I’m currently working on: **A terminal game called Terramin**<br><br>
 ### - 📖 I’m currently learning: **C and Cmake**<br><br>
 ### - 📫 How to reach me: **laylagruszka123@gmail.com**<br><br>
-### - 💡 Semi-Daily fun fact: **My first ever Python project was a crappy dating sim with the character Temmie.**
+### - 💡 Semi-Daily fun fact: **What pushed me into discovering that I am trans is a meme a friend of mines made about me**
 <br>
 
 #### 🔝 Top Contributed Repo
