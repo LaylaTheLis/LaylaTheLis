@@ -5,7 +5,7 @@
 ### - 🤖 I’m currently working on: **A terminal game called Terramin**<br><br>
 ### - 📖 I’m currently learning: **C and Cmake**<br><br>
 ### - 📫 How to reach me: **laylagruszka123@gmail.com**<br><br>
-### - 💡 Semi-Daily fun fact: **The beautiful thing about programming is that you can go "f it" and make something on your own**
+### - 💡 Semi-Daily fun fact: **Sony really doesn't like its fans**
 <br>
 
 #### 🔝 Top Contributed Repo
