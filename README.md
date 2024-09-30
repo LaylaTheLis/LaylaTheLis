@@ -5,7 +5,7 @@
 ### - 🤖 I’m currently working on: **A terminal game called Terramin**<br><br>
 ### - 📖 I’m currently learning: **C and Cmake**<br><br>
 ### - 📫 How to reach me: **laylagruszka123@gmail.com**<br><br>
-### - 💡 Semi-Daily fun fact: **Sony really doesn't like its fans**
+### - 💡 Semi-Daily fun fact: **According to the BBC, a cloud can weigh a few million tonnes**
 <br>
 
 #### 🔝 Top Contributed Repo
